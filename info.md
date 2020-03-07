@@ -1,5 +1,10 @@
 # Pog
 
+[![version](https://img.shields.io/github/package-json/v/Androz2091/ManageInvite?style=for-the-badge)](https://github.com/Androz2091/ManageInvite)
+[![discord](https://img.shields.io/discord/638685268777500672?style=for-the-badge&color=7289DA&label=Discord)](https://discord.gg/v26Sqqs)
+[![issues](https://img.shields.io/github/issues/Androz2091/ManageInvite?style=for-the-badge)](https://github.com/Androz2091/ManageInvite)
+
+
 Pog Offical Bot is a multipurpose chatbot that provides server management and utility commands. It has a suite of music commands capable of handling volume, queues, song selection, and custom playlists.
 
 ## Getting Started
